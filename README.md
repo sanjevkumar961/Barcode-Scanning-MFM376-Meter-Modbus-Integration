@@ -1,1 +1,1 @@
-# Barcode-Scanning-MFM376-Meter-Modbus-Integration
+# Barcode-Scanning-MFM485-Meter-Modbus-Integration
